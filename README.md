@@ -48,7 +48,7 @@ Before proceeding, back up your existing Neovim configuration to prevent data lo
 2.  Clone this repository into your Neovim config directory:
 
     ```
-    git clone https://github.com/<your-github-username>/lazylei_config.git ~/.config/nvim
+    git clone https://github.com/leonlaborina15/lazylei_config.git ~/.config/nvim
     ```
 3.  Launch Neovim; LazyVim will automatically bootstrap and install plugins.
 
@@ -62,7 +62,7 @@ Before proceeding, back up your existing Neovim configuration to prevent data lo
 2.  Clone this repository into your Neovim config directory:
 
     ```
-    git clone https://github.com/<your-github-username>/lazylei_config.git $env:LOCALAPPDATA\nvim
+    git clone https://github.com/leonlaborina15/lazylei_config.git $env:LOCALAPPDATA\nvim
     ```
 3.  Make sure you have Neovim installed (via `winget install Neovim.Neovim` or manually).
 4.  Launch Neovim; LazyVim will handle plugin installation automatically.
